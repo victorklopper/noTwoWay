@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "65086126984",
+    "firebase_url": "https://noway-24169.firebaseio.com",
+    "project_id": "noway-24169",
+    "storage_bucket": "noway-24169.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65086126984:android:e2489069dda14824",
+        "android_client_info": {
+          "package_name": "com.NoWay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "65086126984-seeboq1u46tm2jn5dqhgkf7j4oe71i9c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDn4EBTK9qDeVvDMbUR_9h4cj_wzfkvbz0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
